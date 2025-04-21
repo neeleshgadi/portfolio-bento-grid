@@ -1,14 +1,14 @@
-import React from 'react';
-import { motion } from 'framer-motion';
-import IntroTile from '../tiles/IntroTile';
-import AboutTile from '../tiles/AboutTile';
-import SkillsTile from '../tiles/SkillsTile';
-import ProjectsTile from '../tiles/ProjectsTile';
-import CertificationsTile from '../tiles/CertificationsTile';
-import ExperienceTile from '../tiles/ExperienceTile';
-import HackathonsTile from '../tiles/HackathonsTile';
-import ContactTile from '../tiles/ContactTile';
-import ResumeTile from '../tiles/ResumeTile';
+import React from "react";
+import { motion } from "framer-motion";
+import IntroTile from "../tiles/IntroTile";
+import AboutTile from "../tiles/AboutTile";
+import SkillsTile from "../tiles/SkillsTile";
+import ProjectsTile from "../tiles/ProjectsTile";
+import CertificationsTile from "../tiles/CertificationsTile";
+import ExperienceTile from "../tiles/ExperienceTile";
+import HackathonsTile from "../tiles/HackathonsTile";
+import ContactTile from "../tiles/ContactTile";
+import ResumeTile from "../tiles/ResumeTile";
 
 const BentoGrid: React.FC = () => {
   const container = {

@@ -15,7 +15,7 @@ const IntroTile: React.FC = () => {
           className="w-32 h-32 mb-4 md:mb-0 md:mr-6 overflow-hidden rounded-full bg-white dark:bg-gray-800 flex-shrink-0 shadow-md"
         >
           <img
-            src="..\..\images\profile_pic.jpg"
+            src=".\src\images\profile_pic.jpg"
             alt={personalInfo.name}
             className="w-full h-full object-cover"
           />
